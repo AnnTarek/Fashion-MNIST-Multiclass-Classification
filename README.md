@@ -19,7 +19,7 @@ Samples:<br>
 2. Upload the notebook on Colab then upload the dataset. <br>
 3. Run the whole code to see the results by yourself. <br>
 
-**Dependencies and installation instructions**
+**Dependencies and installation instructions** <br>
 -Numpy, Pandas,seaborn, Tensorflow, matplotlib, and sklearn<br>
 To install them you can use this command for instalingthem all at once: <br> 
 ! pip install numpy pandas seaborn tensorflow matplotlib scikit-learn<br>
